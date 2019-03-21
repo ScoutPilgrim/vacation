@@ -1,0 +1,35 @@
+.mont{
+  height:25%;
+  width:90%;
+
+}
+.content {
+  margin-top: 2%;
+}
+
+.wrapper{
+  margin-top: 2%;
+  text-align: center;
+}
+.sidebar {
+  list-style-type: none;
+}
+
+.button{
+  text-align: center;
+  display: block;
+}
+.block{
+  margin-top: 5%;
+  display:block;
+}
+
+.wrapper{
+  margin-top: 5%;
+  text-align: center;
+}
+
+.wrapper_left{
+  margin-top: 17.5%;
+  text-align: center;
+}
